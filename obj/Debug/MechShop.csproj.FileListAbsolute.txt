@@ -1,0 +1,16 @@
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.AddService.resources
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.AddTech.resources
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.Appointment.resources
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.Form1.resources
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.Properties.Resources.resources
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.Form3.resources
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.NewCustomer.resources
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.TechServices.resources
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\bin\Debug\MechShop.exe.config
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\bin\Debug\MechShop.exe
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\bin\Debug\MechShop.pdb
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.exe
+C:\Users\PC\OneDrive - East Stroudsburg University\Desktop\MechShop\obj\Debug\MechShop.pdb
